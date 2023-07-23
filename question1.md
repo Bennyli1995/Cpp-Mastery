@@ -32,7 +32,7 @@ For each line, the first string is the sequence number associated with the sampl
 ### Sample Case 0
 
 **Sample Input**
-1 -
+1 - 
 2 h
 3 е
 4 1
