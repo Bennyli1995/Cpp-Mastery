@@ -50,7 +50,7 @@ For each line, the first string is the sequence number associated with the sampl
 5 -
 6 h
 7 i
-Q -
+8 -
 4 е
 
 **Sample Output**
